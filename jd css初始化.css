@@ -40,7 +40,7 @@ body{
 	color: #666;
 	background: #fff;
 }
-.clearfix:before,.clearfix:after{
+.clearfix:before,.clearfix:after{   /* 清除浮动 */
 	content:"";
 	display: table;
 }
